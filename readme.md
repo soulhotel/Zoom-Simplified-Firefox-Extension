@@ -2,7 +2,7 @@
 
 ###### Zoom Webpages In and Out, simplified. From 100% to 130%.
 
-Click to zoom, click to reset zoom. A pretty simple extension using the regular zoom api. Mostly for aesthetic (rather than the default button that takes up spacing equivilant to 3 buttons on the nav bar). Also mostly those who typically stick between two different zoom factors, but find the need to switch back and forth often.
+Click to zoom, click to reset zoom. A pretty simple extension using the regular zoom api. Mostly for aesthetic (rather than the default button that takes up spacing equivilant to 3 buttons on the nav bar). Also mostly those who typically stick to two different zoom factors, but find the need to switch back and forth often.
 
 v0.1
 
