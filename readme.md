@@ -4,7 +4,7 @@
 
 Click to zoom, click to reset zoom. A pretty simple extension using the regular zoom api. Mostly for aesthetic (rather than the default button that takes up spacing equivilant to 3 buttons on the nav bar). Also mostly those who typically stick to two different zoom factors, but find the need to switch back and forth often.
 
-pending approval: https://addons.mozilla.org/en-US/firefox/addon/zoom-simplified/
+https://addons.mozilla.org/en-US/firefox/addon/zoom-simplified/
 
 v0.1
 
