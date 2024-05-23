@@ -29,6 +29,7 @@ browser.tabs.onZoomChange.addListener((zoomChangeInfo) => {
 
 
 // Icon Update
+// How the hell do you do this >:( firefox.
 
 function updateIcon() {
   const theme = browser.theme.getCurrent();
