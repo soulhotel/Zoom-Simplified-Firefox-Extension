@@ -9,6 +9,6 @@ https://addons.mozilla.org/en-US/firefox/addon/zoom-simplified/
 v0.1
 
 - Clicking the extension will toggle zoom between 100% and 130% based on the browsers zoom factor.
-- Support added for future 'custom' zoom factor. (Option page, or context option)
+- Support added for customizing the zoom factor on the user's end.. Meaning the zoom factor is already linked to browser storage. (good for Option pages, or context options)
 
 ![RDXJ3TKWmm](https://github.com/soulhotel/Zoom-Simplified-Firefox-Extension/assets/155501797/68b5818f-b9d4-45e5-bb99-e38249b5cc04)
